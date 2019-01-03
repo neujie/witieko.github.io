@@ -1,6 +1,6 @@
 permalink: /:year/:month/:title/
-url: https://niuziru.cn/
-author: Niuziru
+url: https://witieko.cn/
+author: witieko
 highlighter: rouge
 timezone: Asia/Shanghai
 gems: [jekyll-paginate]

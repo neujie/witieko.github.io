@@ -1,2 +1,2 @@
-[Be Zero, Be Funny](https://niuziru.cn)。
+[Be Zero, Be Funny](https://witieko.cn)。
 

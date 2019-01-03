@@ -8,5 +8,5 @@ comments: yes
 
 这家伙很懒，什么都没有留下来...... 
 
-个人邮箱: niuzero@126.com      
-github : [https://github.com/niuziru](https://github.com/niuziru)      
+个人邮箱: witieko@126.com      
+github : [https://github.com/witieko](https://github.com/witieko)      
