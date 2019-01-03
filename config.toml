@@ -1,16 +1,16 @@
-BaseUrl= "http://syui.github.io/hugo-theme-air/"
+BaseUrl= "https://www.witieko.cn/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "Witieko.cn AI Air"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - witieko.cn 2019"
 canonifyurls = true
 
 [author]
   name = "syui"
 
 [params]
-  description = "this is my description"
+  description = "It's mum's love"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
