@@ -1,11 +1,16 @@
----
-layout: post
-title: 2018年，感恩、感谢；2019年，承担、挑战
-categories:
-- 生活
-tags:
-- 思考
----
++++
+date = "2019-01-01T10:54:24+02:00"
+draft = false
+title = "2018年，感恩、感谢；2019年，承担、挑战"
+slug = "post-title"
+tags = ["生活","思考"]
+image = ""
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= "work"		# set "main" to add this content to the main menu
+author = "witieko.cn"
++++
+
 
 2017年，随着冷清的夜晚慢慢而去，越来越淡而忘。
 
