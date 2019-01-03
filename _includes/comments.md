@@ -1,1 +1,1 @@
-This is Witieko.cn for AI.
+This is Witieko.cn for AR.

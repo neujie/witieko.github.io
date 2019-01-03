@@ -1,2 +1,2 @@
-[This is Witieko.cn for AI](https://witieko.cn)。
+[This is Witieko.cn for AR](https://witieko.cn)。
 
