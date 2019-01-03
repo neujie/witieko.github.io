@@ -1,3 +1,2 @@
-This is the important thing for you and your children.
+[Be Zero, Be Funny](https://niuziru.cn)。
 
-I'm witieko.cn

@@ -1,4 +1,4 @@
-tmp
+_site
+.jekyll-metadata
 .DS_Store
-public
-.idea
+.idea/
