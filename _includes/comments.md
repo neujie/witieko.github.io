@@ -1,1 +1,1 @@
-Be Zero, Be Funny.
+This is Witieko.cn for AI.

@@ -1,2 +1,2 @@
-[Be Zero, Be Funny](https://witieko.cn)。
+[This is Witieko.cn for AI](https://witieko.cn)。
 
